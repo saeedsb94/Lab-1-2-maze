@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Master\02_semester\C++\Labs\Lab1\Lab 1_1\Maze\Maze\Source.cpp(274): warning C4309: '=': truncation of constant value
+D:\Master\02_semester\C++\Labs\Lab1\Lab 1_1\Maze\Maze\Source.cpp(323): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Maze.vcxproj -> D:\Master\02_semester\C++\Labs\Lab1\Lab 1_1\Maze\bin\Win32\Debug\Maze.exe
