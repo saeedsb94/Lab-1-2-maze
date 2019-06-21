@@ -1,4 +1,4 @@
 ﻿  Source.cpp
-C:\Users\SAEED-PC\Desktop\New folder\Maze\Source.cpp(274): warning C4309: '=': truncation of constant value
-C:\Users\SAEED-PC\Desktop\New folder\Maze\Source.cpp(323): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Maze.vcxproj -> C:\Users\SAEED-PC\Desktop\New folder\bin\x64\Debug\Maze.exe
+D:\Master\02_semester\C++\Labs\Lab-1-2-maze\Maze\Source.cpp(274): warning C4309: '=': truncation of constant value
+D:\Master\02_semester\C++\Labs\Lab-1-2-maze\Maze\Source.cpp(323): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Maze.vcxproj -> D:\Master\02_semester\C++\Labs\Lab-1-2-maze\bin\x64\Debug\Maze.exe
